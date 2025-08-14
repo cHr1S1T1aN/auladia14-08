@@ -26,7 +26,7 @@ teste.push(1)//coloca no final da lista
 
 /*Objeto*/
 var aluno ={
-    nome:["aluno","chris","japones"],
+    nome:["aluno","chris","japones","cavalo"],
     aprovado:[false,true]
 }
 var alunoDois ={
