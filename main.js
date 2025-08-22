@@ -132,3 +132,4 @@ var carros =[
 console.log(carros)
 console.log(carros[0])
 console.log(carros[1].modelo)
+
