@@ -13,7 +13,7 @@ const texto ="ola";
 
 */
 
-/*Funções*/
+/*Funcoes*/
 
 /*function soma(a,b){
     return a+b;
